@@ -2,5 +2,6 @@
   "host": "https://e2-demo-field-eng.cloud.databricks.com/",
   "authType": "profile",
   "profile": "e2-field",
-  "clusterId": "0103-194616-xoeps3dc"
+  "clusterId": "0103-194616-xoeps3dc",
+  "workspacePath": "/Workspace/Repos/kimberly.mahoney@databricks.com/scala-dbx"
 }
